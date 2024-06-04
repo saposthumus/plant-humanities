@@ -2,12 +2,6 @@
 
 ## VFR Essay
 
-## This is my first paragraph about nettle.
-
-## My first image of nettle
-<param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/2/27/Urtica_dioica_%28Urticaceae%29.jpg">
-
 <param ve-config
 	title="Stinging Nettle: Friend, Foe, Favourite?"
        source-image="https://upload.wikimedia.org/wikipedia/commons/2/27/Urtica_dioica_%28Urticaceae%29.jpg"
