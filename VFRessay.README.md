@@ -1,18 +1,11 @@
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
 <param ve-config 
-       title="Girl with a Pearl Earring" 
+       title="Stinging Nettle: friend, foe, favourite" 
        banner="https://iiif.juncture-digital.org/banner/?"
        url="https://commons.wikimedia.org/wiki/File:Urtica_dioica_-_Stinging_Nettle_on_way_from_Gangria_to_Valley_of_Flowers_National_Park_-_during_LGFC_-_VOF_2019_(14).jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # Sample visual essay
 
