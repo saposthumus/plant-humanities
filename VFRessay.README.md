@@ -26,8 +26,9 @@ Urtica dioica has so many different names, 'common nettle,' 'stinging nettle'...
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+Work in collective garden with nettle
+Shows up three blocks away in my raised garden - how did it travel? on me? my gloves? 
+
 
 ## Multiple viewers
 
